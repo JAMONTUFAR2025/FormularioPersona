@@ -1,0 +1,4 @@
+# FORMULARIO PERSONA
+# JOSUE ALEJANDRO MONTUFAR ZUNIGA
+
+1. Se creo el proyecto FormularioPersona
